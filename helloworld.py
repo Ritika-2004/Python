@@ -1,6 +1,5 @@
 print("Hello World")
 print('Have a nice day!')
-print("I think I should recommend you a book which is Shiv Khera's 'You Can Win'.")
-print("You must go through it once in your life.")
+print("My name is Ritika Raj")
 print("Bye")
-print('Take care')
+print('Thank You')
